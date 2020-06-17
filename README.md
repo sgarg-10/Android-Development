@@ -7,5 +7,5 @@ Link to my project on Github: **https://github.com/sgarg-10/FlappyBird-App--Andr
 ### Project 2: Coin Man Gaming App
 Link to my project on Github:  **https://github.com/sgarg-10/CoinMan-App-AndroidProject**
 
-###Project 3: Notes App
+### Project 3: Notes App
 Link to my project on Github:  **https://github.com/sgarg-10/Notes-MobileApp**
