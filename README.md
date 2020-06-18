@@ -9,3 +9,6 @@ Link to my project on Github:  **https://github.com/sgarg-10/CoinMan-App-Android
 
 ### Project 3: Notes App
 Link to my project on Github:  **https://github.com/sgarg-10/Notes-MobileApp**
+
+### Project 4: StopWatch
+Link to my project on GitHub:  **https://github.com/sgarg-10/StopWatch-MobileApp**
