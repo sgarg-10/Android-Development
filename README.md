@@ -15,3 +15,6 @@ Link to my project on GitHub:  **https://github.com/sgarg-10/StopWatch-MobileApp
 
 ### Project 5: Whats The Weather App
 Link to my project on GitHub:  **https://github.com/sgarg-10/WhatsThe_Weather-MobileApp/tree/master**
+
+### Project 6: Brain Trainer
+Link to my project on GitHub:  **https://github.com/sgarg-10/Brain_Trainer_App**
