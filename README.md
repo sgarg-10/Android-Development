@@ -18,3 +18,8 @@ Link to my project on GitHub:  **https://github.com/sgarg-10/WhatsThe_Weather-Mo
 
 ### Project 6: Brain Trainer
 Link to my project on GitHub:  **https://github.com/sgarg-10/Brain_Trainer_App**
+
+### Project 6: Bluetooth Finder App
+Link to my project on GitHub:  **https://github.com/sgarg-10/Bluetooth_Finder-App**
+
+
