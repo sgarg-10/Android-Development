@@ -1,5 +1,5 @@
 # Android-Development
-This repository will contain all the apps and projects I have created in Android Visual Studio.
+This repository will contain all the apps and projects I have created in Android Visual Studio. (User Interface based Apps)
 
 ### Project 1: Flappy Bird Clone - Gaming App
 Link to my project on Github: **https://github.com/sgarg-10/FlappyBird-App--Android-Project/tree/master**
